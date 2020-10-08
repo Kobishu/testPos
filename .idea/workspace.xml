@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da0c5887-bedc-46ae-986b-0a304cfb8429" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hoWS3sW3NuQLhM1wEp3PlS88pg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da0c5887-bedc-46ae-986b-0a304cfb8429" name="Default Changelist" comment="" />
+      <created>1600677921599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600677921599</updated>
+      <workItem from="1600677922735" duration="9481000" />
+      <workItem from="1601044631833" duration="2176000" />
+      <workItem from="1602114780841" duration="1248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1228" y="467" key="NewPhpFileDialog" timestamp="1600685536431">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1228" y="467" key="NewPhpFileDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1600685536431" />
+    <state x="1049" y="254" key="run.anything.popup" timestamp="1600686857412">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1049" y="254" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1600686857412" />
+    <state x="1105" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1600679157087">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1105" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1600679157087" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/lib/func.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
